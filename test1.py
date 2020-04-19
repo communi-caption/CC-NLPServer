@@ -4,16 +4,15 @@ import json
 ################################################################################################################################################
 i_window = 7
 test_datas = [
-    #'sevgi anlasmak degildir nedensiz de sevilir',
-    #'nedensiz de sevilir sevgi anlasmak degildir',
-    #'bu sırada kapıya bekçi kulübesi olarak kullanılan bir ikinci kat inşa ettiler bu katın inşa amacı olası bir rum isyanına karşı şehri korumaktı',
-    #'sessizlik içinde sürdürdükleri yaşam savaşlarına devam ederken dış dünyanın dehşetiyle de yüzleşmek zorunda kaldı bilinmeze doğru tehlikeli bir şekilde gitmeye zorlanırken kumdan yolun ardında pusuda yatan ve ses yoluyla avlanan yaratıkların tek tehlike olmadığının da kısa sürede farkına vardı',
-    #"buraya kadar geldi kaldı kahve içmeden gitti vicdansız",
-    #"eve gittim evden çıktım",
-    #"ali okula gitti beyza da okuldan geldi",
-    #"merhaba nasılsın iyiyim sen nasılsın",
-    #"şu an ben çağdaş hocayım bitirme projeniz olmamış çocuklar hepinizi bıraktım",
-    #"merhaba Türkiyede eczaneler hangi saatlerde açıktır sabah 9dan akşam 5e kadar açıklar saat kaç saat yedi buçuk o halde eczaneler kapalı mıdır nöbetçi eczaneler açık olmalı hangi eczanenin nöbetçi olduğunu nasıl öğrenebilirim internette nöbetçi eczane aratabilir veya kapalı bir eczanenin kapısından adres alabilirsiniz teşekkür ederim iyi akşamlar",
+    'sevgi anlasmak degildir nedensiz de sevilir',
+    'nedensiz de sevilir sevgi anlasmak degildir',
+    'bu sırada kapıya bekçi kulübesi olarak kullanılan bir ikinci kat inşa ettiler bu katın inşa amacı olası bir rum isyanına karşı şehri korumaktı',
+    'sessizlik içinde sürdürdükleri yaşam savaşlarına devam ederken dış dünyanın dehşetiyle de yüzleşmek zorunda kaldı bilinmeze doğru tehlikeli bir şekilde gitmeye zorlanırken kumdan yolun ardında pusuda yatan ve ses yoluyla avlanan yaratıkların tek tehlike olmadığının da kısa sürede farkına vardı',
+    "buraya kadar geldi kaldı kahve içmeden gitti vicdansız",
+    "eve gittim evden çıktım",
+    "ali okula gitti beyza da okuldan geldi",
+    "merhaba nasılsın iyiyim sen nasılsın",
+    "merhaba Türkiyede eczaneler hangi saatlerde açıktır sabah 9dan akşam 5e kadar açıklar saat kaç saat yedi buçuk o halde eczaneler kapalı mıdır nöbetçi eczaneler açık olmalı hangi eczanenin nöbetçi olduğunu nasıl öğrenebilirim internette nöbetçi eczane aratabilir veya kapalı bir eczanenin kapısından adres alabilirsiniz teşekkür ederim iyi akşamlar",
     "burası sizce uygun mu uygunsa karavanınızı buraya çekebilirsiniz burası uygun öğleden sonra güneş de almaz bol ağaç olması çok iyi denize 100 metreyiz her türlü konfor yok ama tuvaletlerimiz temizdir ve bize yakın iki tane ucuz lokanta var iyi bizden başka kaç tane karavan var henüz daha çok kişi gelmedi burası kalabalık değil sizden başka iki karavan daha var böylesi daha iyi",
     "boş musunuz taksime kadar ne kadar tutar lütfen burada durun bir şey alacağım beni biraz bekler misiniz sağa dönün sola dönün bir sonraki sağa dönün gelecek kavşakta geri dönün"
     ]
